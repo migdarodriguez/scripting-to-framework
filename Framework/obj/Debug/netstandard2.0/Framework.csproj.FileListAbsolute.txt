@@ -1,0 +1,8 @@
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Framework\bin\Debug\netstandard2.0\Framework.deps.json
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Framework\bin\Debug\netstandard2.0\Framework.dll
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Framework\bin\Debug\netstandard2.0\Framework.pdb
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Framework\obj\Debug\netstandard2.0\Framework.csprojAssemblyReference.cache
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Framework\obj\Debug\netstandard2.0\Framework.AssemblyInfoInputs.cache
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Framework\obj\Debug\netstandard2.0\Framework.AssemblyInfo.cs
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Framework\obj\Debug\netstandard2.0\Framework.dll
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Framework\obj\Debug\netstandard2.0\Framework.pdb

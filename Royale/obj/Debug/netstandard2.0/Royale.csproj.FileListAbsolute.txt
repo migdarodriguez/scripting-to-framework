@@ -1,0 +1,11 @@
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\bin\Debug\netstandard2.0\Royale.deps.json
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\bin\Debug\netstandard2.0\Royale.dll
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\bin\Debug\netstandard2.0\Royale.pdb
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\bin\Debug\netstandard2.0\Framework.dll
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\bin\Debug\netstandard2.0\Framework.pdb
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.csprojAssemblyReference.cache
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.AssemblyInfoInputs.cache
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.AssemblyInfo.cs
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.csproj.CopyComplete
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.dll
+C:\Users\Migda\Documents\TAU FRAMEWORK CON NET CORE\scripting-to-framework\Royale\obj\Debug\netstandard2.0\Royale.pdb
